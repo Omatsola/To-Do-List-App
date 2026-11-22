@@ -18,8 +18,6 @@ document.addEventListener('DOMContentLoaded', () => {
   renderTasks();
 });
 
-
-
 // Add New Task
 todoForm.addEventListener('submit', (e) => {
   e.preventDefault();
